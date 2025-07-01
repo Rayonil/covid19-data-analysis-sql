@@ -2,7 +2,7 @@
 
 Este projeto realiza uma análise exploratória de dados sobre a pandemia de COVID-19 utilizando a linguagem SQL, com foco nas tabelas CovidDeaths e CovidVaccinations. Os dados foram originalmente extraídos e armazenados no projeto BigQuery centered-carver-463915-a1, dentro do dataset COVID_19.
 
-    ⚠Nota: Para utilizar este código em seu próprio ambiente, substitua os nomes do projeto e dataset conforme sua configuração no BigQuery.
+     Nota: Para utilizar este código em seu próprio ambiente, substitua os nomes do projeto e dataset conforme sua configuração no BigQuery.
 
 ## Objetivos
 
